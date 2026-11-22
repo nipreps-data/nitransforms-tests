@@ -1,1 +1,2 @@
+9de22ede-3646-464b-adc6-aff2d50f311d autoenable=true bucket=nipreps datacenter=US encryption=none exporttree=yes fileprefix=nitransforms-tests/ host=s3.amazonaws.com name=s3 partsize=1GiB port=80 public=no publicurl=https://nipreps.s3.amazonaws.com region=us-west-2 storageclass=STANDARD type=S3 versioning=yes timestamp=1795360684s
 ce9b207a-4488-4063-a9a2-aa2ec2f7489d autoenable=true encryption=none externaltype=osf name=osf-storage node=ucbpm type=external timestamp=1624005431.990484s
